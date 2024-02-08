@@ -1,5 +1,5 @@
-polindrom_word=input("Soz jaz: ")
-if polindrom_word==polindrom_word [::-1]:
-    print("Полиндром")
-else:
-    print("Полиндром эмес")
+
+numbers = [1, 2, 3, 4, 2, 5, 2, 6]
+def num (a):
+    return list(set(numbers).intersection)
+print (numbers(num))
